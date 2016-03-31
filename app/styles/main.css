@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11207360_10207824468188978_1549283584792198684_n.jpg?oh=830bd9c5bf27412470ff664b62632e0d&oe=57952A93') ;
+    background-size: 30% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+
+.panel {
+	display: flex;
+    justify-content: flex-start;
+	width: 33%;
+}
